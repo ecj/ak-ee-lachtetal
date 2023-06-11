@@ -5,7 +5,6 @@ title: AK eneuerbare Energie Lachtetal
 
 Der Arbeitskreis wurde im Frühjahr 2023 von etwa zwei Dutzend Bürgerinnen und Bürgern mit dem Ziel ins Leben gerufen, den Wandel hin zu einer umweltfreundlichen und nachhaltigen Energieversorgung in den Gemeinden Ahnsbeck, Beedenbostel, Eldingen, Hohne und Lachendorf aktiv zu unterstützen und zu fördern:
 
-Cookie is a Jekyll based static website for your next project. It uses Tailwind CSS and comes with
 1. Akzeptanz durch Teilhabe und Mitwirkung von Bürgerinnen und Bürgern der Region an Energieprojekten und der Energieerzeugung in der Region.
 2. Stärkung des Bürgerinteresses durch Beratung und Information zu Projekten im Zusammenhang mit erneuerbaren Energien sowie Prüfung und Umsetzung von finanziellen oder unternehmerischen Beteiligungsmöglichkeiten.
 3. Beitrag zur Bündelung von Engagement und Finanzmitteln in der Samtgemeinde mit der Zielsetzung einer dezentralen und ökologischen Energieversorgung vor Ort (“aus der Region für die Region”).
