@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Kontakt
 ---
 
-Contact Us on abc@example.com
+Sie erreichen uns unter team@ee.lactetal.de
