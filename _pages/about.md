@@ -3,16 +3,14 @@ layout: page
 title: AK eneuerbare Energie Lachtetal 
 ---
 
-AK-EE-LACHTETAL is a landing page site using [Tailwind CSS](https://www.tailwindcss.com/). You can learn more about customizing the site in `README.md` file in root directory of the project. You can learn more about Jekyll  at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for cookie at GitHub:
-[abhinavs](https://github.com/abhinavs) /
-[cookie](https://github.com/abhinavs/cookie)
+Der Arbeitskreis wurde im Frühjahr 2023 von etwa zwei Dutzend Bürgerinnen und Bürgern mit dem Ziel ins Leben gerufen, den Wandel hin zu einer umweltfreundlichen und nachhaltigen Energieversorgung in den Gemeinden Ahnsbeck, Beedenbostel, Eldingen, Hohne und Lachendorf aktiv zu unterstützen und zu fördern:
 
 Cookie is a Jekyll based static website for your next project. It uses Tailwind CSS and comes with
-1. Landing Page
-2. Blog
-3. Auxilarly Pages like Terms, Privacy Policy, Contact and About us.
+1. Akzeptanz durch Teilhabe und Mitwirkung von Bürgerinnen und Bürgern der Region an Energieprojekten und der Energieerzeugung in der Region.
+2. Stärkung des Bürgerinteresses durch Beratung und Information zu Projekten im Zusammenhang mit erneuerbaren Energien sowie Prüfung und Umsetzung von finanziellen oder unternehmerischen Beteiligungsmöglichkeiten.
+3. Beitrag zur Bündelung von Engagement und Finanzmitteln in der Samtgemeinde mit der Zielsetzung einer dezentralen und ökologischen Energieversorgung vor Ort (“aus der Region für die Region”).
+4. Fortschreiben der Erfolgsgeschichte innovativer und wegweisender Projekte (Windpark Schmarloh, Nahwärmenetz Ahnsbeck etc.) und optimieren der Wertschöpfung für Bürgerinnen und Bürger der Region.
+
 
 All pages are responsive and mobile friendly.
 
