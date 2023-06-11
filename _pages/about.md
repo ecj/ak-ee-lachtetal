@@ -16,7 +16,7 @@ Cookie is a Jekyll based static website for your next project. It uses Tailwind 
 
 All pages are responsive and mobile friendly.
 
-## Why Jekyll?
+## WIESO ENERGIE?
 Jekyll is a static website generator - what it means is that in production, your site will be extremely fast because it has been 'compliled' into HTML pages while deployment. Separating your landing website from your app website is also useful because it takes away the load which otherwise your app website would have handled - it keeps your app website free.
 
 Cookie uses Tailwind 2.0 which is a good improvement over Tailwind 1.0.
