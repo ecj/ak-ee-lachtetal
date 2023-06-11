@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Cookie
+title: ARBEITSKREIS ERNEUERBARE ENERGIE LACHTETAL 
 ---
 
-Cookie is a landing page site using [Tailwind CSS](https://www.tailwindcss.com/). You can learn more about customizing the site in `README.md` file in root directory of the project. You can learn more about Jekyll  at [jekyllrb.com](https://jekyllrb.com/)
+AK-EE-LACHTETAL is a landing page site using [Tailwind CSS](https://www.tailwindcss.com/). You can learn more about customizing the site in `README.md` file in root directory of the project. You can learn more about Jekyll  at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for cookie at GitHub:
 [abhinavs](https://github.com/abhinavs) /
