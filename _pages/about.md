@@ -16,11 +16,3 @@ Wir setzen uns für die Gründung einer regionalen Energiegenossenschaft ein, um
 
 ## Kompetenzprofil
 Unser Arbeitskreis besteht aus engagierten Mitgliedern, die verschiedene Kompetenzbereiche abdecken. Diese umfassen Ingenieurwesen und Technologie, Finanz- und Wirtschaftskompetenz, Projektmanagement in erneuerbaren Energien sowie Kommunikation und Öffentlichkeitsarbeit. Wir setzen auf die Nutzung erneuerbarer Energiequellen wie Windkraft, Solarenergie und Biomasse sowohl für die Strom- als auch für die Wärmeversorgung.
-
-## Installation
-1. Fork this repository.
-2. `cd cookie`
-3. `bin/bootstrap`
-
-## Starting Server
-`bin/start`
